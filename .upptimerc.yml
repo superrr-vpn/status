@@ -14,12 +14,10 @@ sites:
   - name: Node - ca2
     url: http://ca2.yalaso.top/api/v1/ping
     method: POST
- - name: Node - de2
+  - name: Node - de2
     url: http://de2.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-    - 200
   - name: Node - gb2
     url: http://gb2.yalaso.top/api/v1/ping
     method: POST
