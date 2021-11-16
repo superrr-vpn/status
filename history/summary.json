@@ -22,18 +22,20 @@
     "url": "http://sg1.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/sg1.yalaso.top",
     "slug": "node-sg1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 574,
     "timeDay": 574,
     "timeWeek": 574,
     "timeMonth": 574,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Node - ca2",
