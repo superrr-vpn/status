@@ -1,26 +1,35 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: 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 # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: API
+    url: https://api.yalaso.top
+  - name: sg1
+    url: http://sg1.yalaso.top
+  - name: ca2
+    url: http://ca2.yalaso.top
+  - name: de2
+    url: http://de2.yalaso.top
+  - name: gb2
+    url: http://gb2.yalaso.top
+  - name: jp2
+    url: http://jp2.yalaso.top
+  - name: kr2
+    url: http://kr2.yalaso.top
+  - name: us2
+    url: http://us2.yalaso.top
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.yalaso.top
+  baseUrl: RealYalaSo/status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "Status of Superrr VPN services, powered entirely by GitHub."
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/RealYalaSo/status). No server required — just GitHub Actions, Issues, and Pages. [**Github repository**](https://github.com/RealYalaSo/status)
   navbar:
     - title: Status
       href: /
