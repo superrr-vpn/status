@@ -7,19 +7,13 @@ sites:
     url: https://api.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-      - 200
   - name: Node - sg1
     url: http://sg1.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-      - 200
   - name: Node - ca2
     url: http://ca2.yalaso.top/api/v1/ping
     method: POST
-    expectedStatusCodes:
-    - 200
  - name: Node - de2
     url: http://de2.yalaso.top/api/v1/ping
     method: POST
@@ -30,26 +24,18 @@ sites:
     url: http://gb2.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-    - 200
   - name: Node - jp2
     url: http://jp2.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-      - 200
   - name: Node - kr2
     url: http://kr2.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-    - 200
   - name: Node - us2
     url: http://us2.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    expectedStatusCodes:
-    - 200
 
 
 status-website:
