@@ -5,19 +5,19 @@ repo: status # The name of this repository
 sites:
   - name: API
     url: https://api.yalaso.top/api/v1/ping
-  - name: sg1
+  - name: Node - sg1
     url: http://sg1.yalaso.top/api/v1/ping
-  - name: ca2
+  - name: Node - ca2
     url: http://ca2.yalaso.top/api/v1/ping
-  - name: de2
+  - name: Node - de2
     url: http://de2.yalaso.top/api/v1/ping
-  - name: gb2
+  - name: Node - gb2
     url: http://gb2.yalaso.top/api/v1/ping
-  - name: jp2
+  - name: Node - jp2
     url: http://jp2.yalaso.top/api/v1/ping
-  - name: kr2
+  - name: Node - kr2
     url: http://kr2.yalaso.top/api/v1/ping
-  - name: us2
+  - name: Node - us2
     url: http://us2.yalaso.top/api/v1/ping
 
 
@@ -27,8 +27,8 @@ status-website:
   cname: status.yalaso.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "Status of Superrr VPN services, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/RealYalaSo/status). No server required — just GitHub Actions, Issues, and Pages. [**Github repository**](https://github.com/RealYalaSo/status)
+  introTitle: "Status of Superrr VPN"
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/RealYalaSo/status).
   navbar:
     - title: Status
       href: /
