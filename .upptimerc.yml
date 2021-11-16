@@ -4,21 +4,21 @@ repo: status # The name of this repository
 
 sites:
   - name: API
-    url: https://api.yalaso.top
+    url: https://api.yalaso.top/api/v1/ping
   - name: sg1
-    url: http://sg1.yalaso.top
+    url: http://sg1.yalaso.top/api/v1/ping
   - name: ca2
-    url: http://ca2.yalaso.top
+    url: http://ca2.yalaso.top/api/v1/ping
   - name: de2
-    url: http://de2.yalaso.top
+    url: http://de2.yalaso.top/api/v1/ping
   - name: gb2
-    url: http://gb2.yalaso.top
+    url: http://gb2.yalaso.top/api/v1/ping
   - name: jp2
-    url: http://jp2.yalaso.top
+    url: http://jp2.yalaso.top/api/v1/ping
   - name: kr2
-    url: http://kr2.yalaso.top
+    url: http://kr2.yalaso.top/api/v1/ping
   - name: us2
-    url: http://us2.yalaso.top
+    url: http://us2.yalaso.top/api/v1/ping
 
 
 status-website:
