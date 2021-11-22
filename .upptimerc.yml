@@ -7,31 +7,31 @@ sites:
     url: https://api.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - sg3
-    url: http://sg3.yalaso.top/api/v1/ping
+  - name: Node - sg4
+    url: http://sg4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - ca3
-    url: http://ca3.yalaso.top/api/v1/ping
+  - name: Node - ca4
+    url: http://ca4.yalaso.top/api/v1/ping
     method: POST
-  - name: Node - de3
-    url: http://de3.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - gb3
-    url: http://gb3.yalaso.top/api/v1/ping
+  - name: Node - de4
+    url: http://de4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - jp3
-    url: http://jp3.yalaso.top/api/v1/ping
+  - name: Node - gb4
+    url: http://gb4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - kr3
-    url: http://kr3.yalaso.top/api/v1/ping
+  - name: Node - jp4
+    url: http://jp4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - us3
-    url: http://us3.yalaso.top/api/v1/ping
+  - name: Node - kr4
+    url: http://kr4.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - us4
+    url: http://us4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
 
