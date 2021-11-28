@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 933,
-    "timeWeek": 990,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "time": 991,
+    "timeDay": 898,
+    "timeWeek": 988,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "http://sg4.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/sg4.yalaso.top",
     "slug": "node-sg4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 506,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
-    "dailyMinutesDown": {}
+    "time": 475,
+    "timeDay": 498,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2021-11-28": 0
+    }
   },
   {
     "name": "Node - ca4",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 331,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 331,
+    "timeDay": 329,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -83,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 284,
+    "timeDay": 283,
     "timeWeek": 300,
     "timeMonth": 300,
     "timeYear": 300,
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
+    "time": 294,
     "timeDay": 259,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
+    "time": 79,
     "timeDay": 43,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   }
 ]
