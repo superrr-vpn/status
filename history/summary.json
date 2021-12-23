@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/kr4.yalaso.top",
     "slug": "node-kr4",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 720,
     "timeWeek": 409,
     "timeMonth": 364,
     "timeYear": 362,
-    "dailyMinutesDown": {
-      "2021-12-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - us5",
