@@ -18,20 +18,20 @@ sites:
     url: http://de4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - gb5
-    url: http://gb5.yalaso.top/api/v1/ping
+  - name: Node - gb6
+    url: http://gb6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - jp5
-    url: http://jp5.yalaso.top/api/v1/ping
+  - name: Node - jp6
+    url: http://jp6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - kr4
     url: http://kr4.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - us5
-    url: http://us5.yalaso.top/api/v1/ping
+  - name: Node - us6
+    url: http://us6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
 
