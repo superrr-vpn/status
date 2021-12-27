@@ -40,10 +40,10 @@
     "url": "http://ca4.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/ca4.yalaso.top",
     "slug": "node-ca4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
@@ -51,17 +51,19 @@
     "timeWeek": 200,
     "timeMonth": 198,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-27": 1
+    }
   },
   {
     "name": "Node - de4",
     "url": "http://de4.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/de4.yalaso.top",
     "slug": "node-de4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -69,7 +71,9 @@
     "timeWeek": 345,
     "timeMonth": 342,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-27": 1
+    }
   },
   {
     "name": "Node - gb6",
@@ -112,18 +116,19 @@
     "url": "http://kr4.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/kr4.yalaso.top",
     "slug": "node-kr4",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.95%",
     "time": 364,
     "timeDay": 338,
     "timeWeek": 417,
     "timeMonth": 367,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2021-12-27": 0,
       "2021-12-23": 23
     }
   },
