@@ -61,6 +61,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.yalaso.top
   logoUrl: https://raw.githubusercontent.com/RealYalaSo/status/master/assets/icon.png
+  favicon: https://raw.githubusercontent.com/RealYalaSo/status/master/assets/icon.png
   name: Status
   introTitle: "Status of Superrr VPN"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/RealYalaSo/status).
