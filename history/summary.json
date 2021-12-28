@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/sg5.yalaso.top",
     "slug": "node-sg5",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 664,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
-    "dailyMinutesDown": {
-      "2021-12-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - sg6",
@@ -79,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/de6.yalaso.top",
     "slug": "node-de6",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 321,
     "timeDay": 321,
     "timeWeek": 321,
@@ -153,19 +151,17 @@
     "icon": "https://favicons.githubusercontent.com/us6.yalaso.top",
     "slug": "node-us6",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 122,
     "timeWeek": 115,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2021-12-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - nl6",
