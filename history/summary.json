@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 978,
-    "timeWeek": 995,
-    "timeMonth": 985,
-    "timeYear": 985,
+    "time": 986,
+    "timeDay": 977,
+    "timeWeek": 999,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {}
   },
   {
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 484,
+    "timeDay": 493,
     "timeWeek": 530,
     "timeMonth": 543,
     "timeYear": 543,
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 484,
-    "timeWeek": 495,
+    "timeDay": 477,
+    "timeWeek": 493,
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 227,
-    "timeWeek": 218,
+    "timeDay": 226,
+    "timeWeek": 219,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "99.87%",
     "time": 351,
     "timeDay": 341,
-    "timeWeek": 356,
+    "timeWeek": 355,
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
@@ -114,18 +114,20 @@
     "url": "http://jp6.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/jp6.yalaso.top",
     "slug": "node-jp6",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 310,
-    "timeDay": 278,
-    "timeWeek": 321,
+    "timeDay": 280,
+    "timeWeek": 319,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 1
+    }
   },
   {
     "name": "Node - kr6",
@@ -150,18 +152,20 @@
     "url": "http://us6.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/us6.yalaso.top",
     "slug": "node-us6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 85,
-    "timeWeek": 105,
+    "timeDay": 88,
+    "timeWeek": 104,
     "timeMonth": 103,
     "timeYear": 103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-07": 0
+    }
   },
   {
     "name": "Node - nl6",
@@ -176,7 +180,7 @@
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 282,
-    "timeWeek": 291,
+    "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {}
@@ -193,8 +197,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 353,
-    "timeWeek": 379,
+    "timeDay": 352,
+    "timeWeek": 378,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {}
