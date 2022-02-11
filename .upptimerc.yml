@@ -38,6 +38,14 @@ sites:
     url: http://us6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - us6-fremont 
+    url: http://us6-fremont.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - us6-dallas
+    url: http://us6-dallas.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
   - name: Node - nl6
     url: http://nl6.yalaso.top/api/v1/ping
     method: POST
