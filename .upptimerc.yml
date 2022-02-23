@@ -11,10 +11,6 @@ sites:
     url: http://sg5.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - sg6
-    url: http://sg6.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - ca6
     url: http://ca6.yalaso.top/api/v1/ping
     method: POST
