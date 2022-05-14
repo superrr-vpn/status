@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 986,
     "timeDay": 1000,
-    "timeWeek": 987,
+    "timeWeek": 988,
     "timeMonth": 982,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 525,
-    "timeWeek": 554,
+    "timeWeek": 556,
     "timeMonth": 561,
     "timeYear": 548,
     "dailyMinutesDown": {}
@@ -154,7 +154,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 379,
-    "timeWeek": 368,
+    "timeWeek": 367,
     "timeMonth": 376,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -165,14 +165,14 @@
     "icon": "https://favicons.githubusercontent.com/us6.yalaso.top",
     "slug": "node-us6",
     "status": "up",
-    "uptime": "75.59%",
+    "uptime": "75.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "75.59%",
+    "uptimeYear": "75.60%",
     "time": 114,
     "timeDay": 136,
-    "timeWeek": 125,
+    "timeWeek": 126,
     "timeMonth": 123,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -247,7 +247,7 @@
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 262,
-    "timeWeek": 287,
+    "timeWeek": 286,
     "timeMonth": 296,
     "timeYear": 294,
     "dailyMinutesDown": {}
