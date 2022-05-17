@@ -27,9 +27,9 @@
     "slug": "node-sg5",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 604,
@@ -37,7 +37,7 @@
     "timeMonth": 560,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 5
     }
   },
   {
