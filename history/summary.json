@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 993,
-    "timeDay": 1022,
-    "timeWeek": 1056,
+    "timeDay": 1021,
+    "timeWeek": 1057,
     "timeMonth": 1035,
     "timeYear": 993,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 584,
-    "timeWeek": 647,
+    "timeWeek": 643,
     "timeMonth": 625,
     "timeYear": 622,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 247,
+    "timeDay": 246,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
@@ -68,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
     "time": 425,
-    "timeDay": 423,
-    "timeWeek": 402,
+    "timeDay": 421,
+    "timeWeek": 401,
     "timeMonth": 426,
     "timeYear": 425,
     "dailyMinutesDown": {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 387,
-    "timeDay": 357,
+    "time": 388,
+    "timeDay": 368,
     "timeWeek": 377,
     "timeMonth": 389,
-    "timeYear": 387,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2022-05-17": 346
     }
@@ -102,15 +102,15 @@
     "icon": "https://favicons.githubusercontent.com/jp6.yalaso.top",
     "slug": "node-jp6",
     "status": "up",
-    "uptime": "86.01%",
+    "uptime": "86.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.01%",
+    "uptimeYear": "86.02%",
     "time": 346,
-    "timeDay": 380,
-    "timeWeek": 407,
-    "timeMonth": 407,
+    "timeDay": 382,
+    "timeWeek": 408,
+    "timeMonth": 408,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2022-05-17": 89,
@@ -153,8 +153,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
-    "timeDay": 467,
-    "timeWeek": 465,
+    "timeDay": 470,
+    "timeWeek": 467,
     "timeMonth": 454,
     "timeYear": 385,
     "dailyMinutesDown": {}
@@ -171,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.59%",
     "time": 130,
-    "timeDay": 162,
+    "timeDay": 161,
     "timeWeek": 193,
-    "timeMonth": 185,
+    "timeMonth": 186,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2022-05-04": 22,
@@ -228,7 +228,7 @@
     "time": 135,
     "timeDay": 167,
     "timeWeek": 203,
-    "timeMonth": 183,
+    "timeMonth": 184,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2022-02-18": 15
@@ -267,8 +267,8 @@
     "uptimeYear": "99.96%",
     "time": 384,
     "timeDay": 448,
-    "timeWeek": 448,
-    "timeMonth": 436,
+    "timeWeek": 449,
+    "timeMonth": 437,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2022-05-17": 87
