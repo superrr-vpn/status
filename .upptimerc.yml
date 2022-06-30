@@ -18,8 +18,8 @@ sites:
     url: http://de7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - gb7
-    url: http://gb7.yalaso.top/api/v1/ping
+  - name: Node - gb7-lincolnshire
+    url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - jp6
@@ -44,6 +44,10 @@ sites:
     maxResponseTime: 2000
   - name: Node - au6
     url: http://au6.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ru7
+    url: http://ru7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
     
