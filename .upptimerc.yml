@@ -11,8 +11,8 @@ sites:
     url: http://sg8.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - ca8
-    url: http://ca8.yalaso.top/api/v1/ping
+  - name: Node - ca8-toronto
+    url: http://ca8-toronto.yalaso.top/api/v1/ping
     method: POST
   - name: Node - de7-hessen
     url: http://de7-hessen.yalaso.top/api/v1/ping
