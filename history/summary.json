@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/sg8.yalaso.top",
     "slug": "node-sg8",
     "status": "down",
-    "uptime": "39.80%",
-    "uptimeDay": "42.56%",
-    "uptimeWeek": "39.80%",
-    "uptimeMonth": "39.80%",
-    "uptimeYear": "39.80%",
+    "uptime": "39.33%",
+    "uptimeDay": "40.23%",
+    "uptimeWeek": "39.33%",
+    "uptimeMonth": "39.33%",
+    "uptimeYear": "39.33%",
     "time": 617,
     "timeDay": 586,
     "timeWeek": 617,
     "timeMonth": 617,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-07-03": 402,
+      "2022-07-03": 436,
       "2022-07-02": 743,
       "2022-07-01": 551
     }
@@ -165,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/us6-la.yalaso.top",
     "slug": "node-us6-la",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "98.80%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 165,
     "timeDay": 167,
     "timeWeek": 165,
     "timeMonth": 165,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2022-07-03": 1
+      "2022-07-03": 34
     }
   },
   {
