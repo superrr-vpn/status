@@ -22,8 +22,8 @@ sites:
     url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - jp6
-    url: http://jp6.yalaso.top/api/v1/ping
+  - name: Node - jp8
+    url: http://jp8.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - kr6
