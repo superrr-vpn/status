@@ -1,4 +1,5 @@
 # Change these first
+# see https://github.com/superrr-vpn/status
 owner: RealYalaSo # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
@@ -7,50 +8,51 @@ sites:
     url: https://api.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - sg8
-    url: http://sg8.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - ca8-toronto
-    url: http://ca8-toronto.yalaso.top/api/v1/ping
-    method: POST
-  - name: Node - de7-hessen
-    url: http://de7-hessen.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - gb7-lincolnshire
-    url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - jp8
-    url: http://jp8.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - kr6
+  - name: Node - kr6.yalaso.top
     url: http://kr6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - us6-la
-    url: http://us6-la.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - us6-fremont 
-    url: http://us6-fremont.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - nl7
-    url: http://nl7.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - au6
+  - name: Node - au6.yalaso.top
     url: http://au6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - ru7
+  - name: Node - us6-fremont.yalaso.top
+    url: http://us6-fremont.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ru7.yalaso.top
     url: http://ru7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-    
+  - name: Node - gb7-lincolnshire.yalaso.top
+    url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - de7-hessen.yalaso.top
+    url: http://de7-hessen.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - nl7.yalaso.top
+    url: http://nl7.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - sg8.yalaso.top
+    url: http://sg8.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - us6-la.yalaso.top
+    url: http://us6-la.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ca8-toronto.yalaso.top
+    url: http://ca8-toronto.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - jp8.yalaso.top
+    url: http://jp8.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+
 workflowSchedule:
   graphs: "5 * * * *"
   responseTime: "0 * * * *"
