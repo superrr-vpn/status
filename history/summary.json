@@ -152,18 +152,18 @@
     "icon": "https://favicons.githubusercontent.com/sg8.yalaso.top",
     "slug": "node-sg8-yalaso-top",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 537,
     "timeDay": 505,
     "timeWeek": 537,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-07-11": 1
+      "2022-07-11": 2
     }
   },
   {
