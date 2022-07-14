@@ -36,10 +36,6 @@ sites:
     url: http://nl7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - sg8.yalaso.top
-    url: http://sg8.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - us6-la.yalaso.top
     url: http://us6-la.yalaso.top/api/v1/ping
     method: POST
