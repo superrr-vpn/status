@@ -206,18 +206,18 @@
     "icon": "https://favicons.githubusercontent.com/4a77c191.yalaso.top",
     "slug": "node-4a77c191-yalaso-top",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "94.49%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptime": "96.96%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
     "time": 510,
     "timeDay": 513,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2022-07-15": 79
+      "2022-07-15": 80
     }
   },
   {
