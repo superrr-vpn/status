@@ -13,7 +13,7 @@
     "time": 997,
     "timeDay": 1004,
     "timeWeek": 1013,
-    "timeMonth": 1036,
+    "timeMonth": 1037,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2022-03-25": 19,
@@ -206,18 +206,18 @@
     "icon": "https://favicons.githubusercontent.com/4a77c191.yalaso.top",
     "slug": "node-4a77c191-yalaso-top",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "98.36%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 510,
     "timeDay": 515,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 43
     }
   }
 ]
