@@ -205,19 +205,19 @@
     "url": "http://4a77c191.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/4a77c191.yalaso.top",
     "slug": "node-4a77c191-yalaso-top",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "94.48%",
+    "status": "down",
+    "uptime": "94.74%",
+    "uptimeDay": "89.64%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "94.74%",
     "time": 511,
     "timeDay": 504,
     "timeWeek": 511,
     "timeMonth": 511,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2022-07-15": 156
+      "2022-07-15": 150
     }
   },
   {
