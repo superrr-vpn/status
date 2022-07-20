@@ -16,10 +16,6 @@ sites:
     url: http://au6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - us6-fremont.yalaso.top
-    url: http://us6-fremont.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - ru7.yalaso.top
     url: http://ru7.yalaso.top/api/v1/ping
     method: POST
