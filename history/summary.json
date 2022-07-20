@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 998,
-    "timeDay": 1008,
-    "timeWeek": 1036,
-    "timeMonth": 1039,
+    "timeDay": 1012,
+    "timeWeek": 1037,
+    "timeMonth": 1038,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2022-03-25": 19,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
+    "time": 559,
     "timeDay": 527,
     "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 545,
-    "timeWeek": 567,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "time": 561,
+    "timeDay": 538,
+    "timeWeek": 566,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   },
   {
@@ -61,10 +61,10 @@
     "url": "http://us6-fremont.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/us6-fremont.yalaso.top",
     "slug": "node-us6-fremont-yalaso-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
@@ -72,7 +72,9 @@
     "timeWeek": 295,
     "timeMonth": 283,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 1
+    }
   },
   {
     "name": "Node - ru7.yalaso.top",
@@ -87,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 468,
     "timeDay": 496,
-    "timeWeek": 469,
+    "timeWeek": 471,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {}
@@ -103,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
+    "time": 364,
     "timeDay": 388,
-    "timeWeek": 364,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "timeWeek": 363,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -123,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 385,
-    "timeWeek": 378,
+    "timeWeek": 377,
     "timeMonth": 381,
     "timeYear": 381,
     "dailyMinutesDown": {}
@@ -140,7 +142,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 351,
+    "timeDay": 344,
     "timeWeek": 347,
     "timeMonth": 345,
     "timeYear": 345,
@@ -157,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
+    "time": 185,
     "timeDay": 168,
     "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -176,8 +178,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 374,
-    "timeWeek": 372,
+    "timeDay": 381,
+    "timeWeek": 373,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -213,11 +215,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
+    "time": 190,
     "timeDay": 184,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -231,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 401,
-    "timeWeek": 401,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "time": 441,
+    "timeDay": 441,
+    "timeWeek": 441,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   }
 ]
