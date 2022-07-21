@@ -69,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 470,
     "timeDay": 490,
-    "timeWeek": 476,
+    "timeWeek": 477,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {}
@@ -87,7 +87,7 @@
     "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 419,
-    "timeWeek": 370,
+    "timeWeek": 369,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {}
@@ -123,7 +123,7 @@
     "uptimeYear": "100.00%",
     "time": 345,
     "timeDay": 352,
-    "timeWeek": 350,
+    "timeWeek": 349,
     "timeMonth": 345,
     "timeYear": 345,
     "dailyMinutesDown": {}
@@ -141,7 +141,7 @@
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 161,
-    "timeWeek": 174,
+    "timeWeek": 175,
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {}
@@ -170,11 +170,11 @@
     "icon": "https://favicons.githubusercontent.com/54360d94.yalaso.top",
     "slug": "node-54360d94-yalaso-top",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "95.65%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 428,
     "timeDay": 413,
     "timeWeek": 428,
@@ -209,18 +209,18 @@
     "icon": "https://favicons.githubusercontent.com/2d582a2f.yalaso.top",
     "slug": "node-2d582a2f-yalaso-top",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "97.62%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "97.62%",
     "time": 472,
     "timeDay": 484,
     "timeWeek": 472,
     "timeMonth": 472,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2022-07-21": 1
+      "2022-07-21": 44
     }
   }
 ]
