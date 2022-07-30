@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 999,
     "timeDay": 1000,
-    "timeWeek": 1028,
+    "timeWeek": 1027,
     "timeMonth": 1034,
     "timeYear": 999,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeYear": "99.94%",
     "time": 553,
     "timeDay": 513,
-    "timeWeek": 546,
+    "timeWeek": 545,
     "timeMonth": 553,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -65,19 +65,19 @@
     "url": "http://ru7.yalaso.top/api/v1/ping",
     "icon": "https://favicons.githubusercontent.com/ru7.yalaso.top",
     "slug": "node-ru7-yalaso-top",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "82.74%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "80.53%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.03%",
     "time": 498,
-    "timeDay": 622,
+    "timeDay": 617,
     "timeWeek": 539,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-07-30": 249
+      "2022-07-30": 280
     }
   },
   {
@@ -173,7 +173,7 @@
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 350,
-    "timeWeek": 378,
+    "timeWeek": 379,
     "timeMonth": 382,
     "timeYear": 382,
     "dailyMinutesDown": {}
@@ -191,7 +191,7 @@
     "uptimeYear": "99.60%",
     "time": 437,
     "timeDay": 424,
-    "timeWeek": 444,
+    "timeWeek": 443,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
@@ -225,14 +225,14 @@
     "icon": "https://favicons.githubusercontent.com/2d582a2f.yalaso.top",
     "slug": "node-2d582a2f-yalaso-top",
     "status": "up",
-    "uptime": "91.13%",
+    "uptime": "91.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.13%",
-    "uptimeYear": "91.13%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "91.15%",
     "time": 509,
     "timeDay": 522,
-    "timeWeek": 511,
+    "timeWeek": 510,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
