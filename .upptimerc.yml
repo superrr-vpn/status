@@ -12,10 +12,6 @@ sites:
     url: http://kr6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - au6.yalaso.top
-    url: http://au6.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - ru7.yalaso.top
     url: http://ru7.yalaso.top/api/v1/ping
     method: POST
@@ -50,6 +46,18 @@ sites:
     maxResponseTime: 2000
   - name: Node - 2d582a2f.yalaso.top
     url: http://2d582a2f.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - us-2d0b03b7.yalaso.top
+    url: http://us-2d0b03b7.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - hk-2d88c5eb.yalaso.top
+    url: http://hk-2d88c5eb.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - au-b06145ad.yalaso.top
+    url: http://au-b06145ad.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
 
