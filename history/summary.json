@@ -197,8 +197,8 @@
     "slug": "node-d880b04a-yalaso-top",
     "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.48%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.47%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.20%",
     "time": 173,
@@ -207,7 +207,7 @@
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-08-04": 1,
+      "2022-08-04": 2,
       "2022-08-01": 153,
       "2022-07-25": 32
     }
