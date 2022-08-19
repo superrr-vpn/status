@@ -55,7 +55,7 @@
     "uptimeYear": "99.47%",
     "time": 512,
     "timeDay": 508,
-    "timeWeek": 511,
+    "timeWeek": 513,
     "timeMonth": 526,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "uptimeYear": "96.40%",
     "time": 404,
     "timeDay": 395,
-    "timeWeek": 426,
+    "timeWeek": 428,
     "timeMonth": 417,
     "timeYear": 404,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
     "uptimeYear": "99.90%",
     "time": 399,
     "timeDay": 379,
-    "timeWeek": 408,
+    "timeWeek": 407,
     "timeMonth": 404,
     "timeYear": 399,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
     "uptimeYear": "96.01%",
     "time": 202,
     "timeDay": 191,
-    "timeWeek": 211,
+    "timeWeek": 212,
     "timeMonth": 206,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -165,12 +165,12 @@
     "status": "up",
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "98.11%",
     "time": 393,
     "timeDay": 432,
-    "timeWeek": 404,
+    "timeWeek": 406,
     "timeMonth": 400,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -214,7 +214,7 @@
     "slug": "node-d880b04a-yalaso-top",
     "status": "up",
     "uptime": "94.10%",
-    "uptimeDay": "65.00%",
+    "uptimeDay": "67.52%",
     "uptimeWeek": "81.34%",
     "uptimeMonth": "93.97%",
     "uptimeYear": "94.10%",
@@ -249,7 +249,7 @@
     "uptimeYear": "97.01%",
     "time": 517,
     "timeDay": 539,
-    "timeWeek": 530,
+    "timeWeek": 529,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
@@ -291,7 +291,7 @@
     "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 465,
-    "timeWeek": 468,
+    "timeWeek": 469,
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {}
@@ -309,7 +309,7 @@
     "uptimeYear": "100.00%",
     "time": 615,
     "timeDay": 637,
-    "timeWeek": 618,
+    "timeWeek": 617,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {}
