@@ -275,11 +275,11 @@
     "icon": "https://favicons.githubusercontent.com/2d582a2f.yalaso.top",
     "slug": "node-2d582a2f-yalaso-top",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.92%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 523,
     "timeDay": 548,
     "timeWeek": 544,
@@ -338,18 +338,18 @@
     "icon": "https://favicons.githubusercontent.com/au-b06145ad.yalaso.top",
     "slug": "node-au-b06145ad-yalaso-top",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 618,
     "timeDay": 563,
     "timeWeek": 636,
     "timeMonth": 618,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-09-14": 1
+      "2022-09-14": 48
     }
   }
 ]
