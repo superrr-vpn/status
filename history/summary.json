@@ -210,7 +210,7 @@
     "slug": "node-54360d94-yalaso-top",
     "status": "up",
     "uptime": "92.75%",
-    "uptimeDay": "21.01%",
+    "uptimeDay": "21.11%",
     "uptimeWeek": "77.92%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "92.75%",
@@ -334,18 +334,18 @@
     "icon": "https://favicons.githubusercontent.com/ca-9e450b89.yalaso.top",
     "slug": "node-ca-9e450b89-yalaso-top",
     "status": "down",
-    "uptime": "25.94%",
-    "uptimeDay": "25.94%",
-    "uptimeWeek": "25.94%",
-    "uptimeMonth": "25.94%",
-    "uptimeYear": "25.94%",
+    "uptime": "14.67%",
+    "uptimeDay": "14.67%",
+    "uptimeWeek": "14.67%",
+    "uptimeMonth": "14.67%",
+    "uptimeYear": "14.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 1
+      "2022-09-26": 3
     }
   },
   {
