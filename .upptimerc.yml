@@ -56,6 +56,14 @@ sites:
     url: http://au-b06145ad.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - ca-9e450b89.yalaso.top
+    url: http://ca-9e450b89.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ca-6790b1e9.yalaso.top
+    url: http://ca-6790b1e9.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
 
 workflowSchedule:
   graphs: "5 * * * *"
