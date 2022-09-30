@@ -12,20 +12,8 @@ sites:
     url: http://kr6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - ru7.yalaso.top
-    url: http://ru7.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - gb7-lincolnshire.yalaso.top
     url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - de7-hessen.yalaso.top
-    url: http://de7-hessen.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
-  - name: Node - nl7.yalaso.top
-    url: http://nl7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - us6-la.yalaso.top
@@ -52,16 +40,32 @@ sites:
     url: http://hk-2d88c5eb.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
-  - name: Node - au-b06145ad.yalaso.top
-    url: http://au-b06145ad.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - ca-9e450b89.yalaso.top
     url: http://ca-9e450b89.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - ca-6790b1e9.yalaso.top
     url: http://ca-6790b1e9.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - nl-2501cb1d.yalaso.top
+    url: http://nl-2501cb1d.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ae-b0614281.yalaso.top
+    url: http://ae-b0614281.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - us-2501d3f2.yalaso.top
+    url: http://us-2501d3f2.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - ru-5bc1b64c.yalaso.top
+    url: http://ru-5bc1b64c.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - de-053d2451.yalaso.top
+    url: http://de-053d2451.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
 
