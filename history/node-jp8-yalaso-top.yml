@@ -1,7 +1,7 @@
 url: http://jp8.yalaso.top/api/v1/ping
-status: degraded
+status: up
 code: 200
-responseTime: 2294
-lastUpdated: 2022-10-19T17:51:45.761Z
+responseTime: 742
+lastUpdated: 2022-10-19T18:26:13.464Z
 startTime: Sun Jul 10 2022 05:49:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
