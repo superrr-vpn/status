@@ -28,19 +28,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.yalaso.top.ico",
     "slug": "api-auth",
     "status": "up",
-    "uptime": "11.89%",
-    "uptimeDay": "11.89%",
-    "uptimeWeek": "11.89%",
-    "uptimeMonth": "11.89%",
-    "uptimeYear": "11.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 192,
     "timeWeek": 192,
     "timeMonth": 192,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2022-10-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - kr6.yalaso.top",
