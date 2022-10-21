@@ -14,7 +14,7 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "username": "username", "password": "password", "client_ip": "client_ip", "host_ip": "host_ip", "tx_id": "tx_id" }'
-    expectedStatusCodes
+    expectedStatusCodes:
       - 200
       - 400
     maxResponseTime: 2000
