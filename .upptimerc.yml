@@ -8,6 +8,13 @@ sites:
     url: https://api.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: API Auth
+    url: https://api.yalaso.top/api/v1/host/auth
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "username": "username", "password": "password", "client_ip": "client_ip", "host_ip": "host_ip", "tx_id": "tx_id" }'
+    maxResponseTime: 2000
   - name: Node - kr6.yalaso.top
     url: http://kr6.yalaso.top/api/v1/ping
     method: POST
