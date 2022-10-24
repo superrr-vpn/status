@@ -78,6 +78,10 @@ sites:
     url: http://de-053d2451.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - gb-053d3db7.yalaso.top
+    url: http://gb-053d3db7.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
 
 workflowSchedule:
   graphs: "5 * * * *"
