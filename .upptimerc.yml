@@ -18,10 +18,6 @@ sites:
       - 200
       - 400
     maxResponseTime: 2000
-  - name: Node - kr6.yalaso.top
-    url: http://kr6.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - gb7-lincolnshire.yalaso.top
     url: http://gb7-lincolnshire.yalaso.top/api/v1/ping
     method: POST
@@ -76,6 +72,10 @@ sites:
     maxResponseTime: 2000
   - name: Node - gb-053d3db7.yalaso.top
     url: http://gb-053d3db7.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - kr-8da426e6.yalaso.top
+    url: http://kr-8da426e6.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
 
