@@ -13,7 +13,7 @@
     "time": 1007,
     "timeDay": 1041,
     "timeWeek": 1049,
-    "timeMonth": 1046,
+    "timeMonth": 1045,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-07-29": 17,
@@ -54,7 +54,7 @@
     "time": 417,
     "timeDay": 521,
     "timeWeek": 441,
-    "timeMonth": 444,
+    "timeMonth": 445,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2022-10-31": 75,
@@ -421,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gb-053d3db7.yalaso.top.ico",
     "slug": "node-gb-053d3db7-yalaso-top",
     "status": "down",
-    "uptime": "96.74%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "96.74%",
-    "uptimeYear": "96.74%",
+    "uptime": "96.66%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 277,
     "timeDay": 287,
     "timeWeek": 276,
     "timeMonth": 277,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-11-01": 58,
+      "2022-11-01": 68,
       "2022-10-25": 171,
       "2022-10-24": 167
     }
