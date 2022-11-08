@@ -78,6 +78,14 @@ sites:
     url: http://jp-b0614696.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - fr-b9579728.yalaso.top
+    url: http://fr-b9579728.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - sz-b32bb087.yalaso.top
+    url: http://sz-b32bb087.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
 
 workflowSchedule:
   graphs: "5 * * * *"
