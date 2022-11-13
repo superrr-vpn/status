@@ -1,7 +1,7 @@
 url: http://gb-053d3db7.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-13T06:30:11.130Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2022-11-13T07:16:34.474Z
 startTime: Mon Oct 24 2022 03:34:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
