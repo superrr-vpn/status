@@ -18,10 +18,6 @@ sites:
       - 200
       - 400
     maxResponseTime: 2000
-  - name: Node - 2d582a2f.yalaso.top
-    url: http://2d582a2f.yalaso.top/api/v1/ping
-    method: POST
-    maxResponseTime: 2000
   - name: Node - 54360d94.yalaso.top
     url: http://54360d94.yalaso.top/api/v1/ping
     method: POST
@@ -76,6 +72,10 @@ sites:
     maxResponseTime: 2000
   - name: Node - ru-5bc1b64c.yalaso.top
     url: http://ru-5bc1b64c.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
+  - name: Node - sg-67539fc1.yalaso.top
+    url: http://sg-67539fc1.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
   - name: Node - us-2501d3f2.yalaso.top
