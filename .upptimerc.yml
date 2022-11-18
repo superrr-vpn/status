@@ -34,6 +34,10 @@ sites:
     url: http://ca-6790b1e9.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - ca-68a67f36.yalaso.top
+    url: http://ca-68a67f36.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
   - name: Node - ch-b32bb087.yalaso.top
     url: http://ch-b32bb087.yalaso.top/api/v1/ping
     method: POST
