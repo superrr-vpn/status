@@ -90,6 +90,10 @@ sites:
     url: http://us-2d0b03b7.yalaso.top/api/v1/ping
     method: POST
     maxResponseTime: 2000
+  - name: Node - us-95ff2449.yalaso.top
+    url: http://us-95ff2449.yalaso.top/api/v1/ping
+    method: POST
+    maxResponseTime: 2000
 
 workflowSchedule:
   graphs: "5 * * * *"
