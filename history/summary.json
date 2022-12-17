@@ -163,19 +163,19 @@
     "url": "http://ca-179a516e.yalaso.top/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ca-179a516e.yalaso.top.ico",
     "slug": "node-ca-179a516e-yalaso-top",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 491,
-    "timeDay": 510,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 489,
+    "timeDay": 505,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
-      "2022-12-17": 1
+      "2022-12-17": 16
     }
   },
   {
