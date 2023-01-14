@@ -535,19 +535,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ua-8200ea14.yalaso.top.ico",
     "slug": "node-ua-8200ea14-yalaso-top",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 361,
     "timeDay": 338,
     "timeWeek": 357,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2023-01-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - us-2656834a.yalaso.top",
