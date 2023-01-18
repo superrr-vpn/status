@@ -169,7 +169,7 @@
     "slug": "node-ca-179a516e-yalaso-top",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "99.80%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.65%",
@@ -580,7 +580,7 @@
     "time": 222,
     "timeDay": 193,
     "timeWeek": 156,
-    "timeMonth": 227,
+    "timeMonth": 228,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2023-01-18": 28
