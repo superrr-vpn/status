@@ -1,7 +1,7 @@
 url: http://au-b06145ad.yalaso.top/api/v1/ping
-status: up
+status: degraded
 code: 200
-responseTime: 782
-lastUpdated: 2023-01-25T07:20:03.048Z
+responseTime: 3902
+lastUpdated: 2023-01-25T07:27:35.366Z
 startTime: Fri Sep 30 2022 12:58:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
