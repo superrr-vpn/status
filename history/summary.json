@@ -205,7 +205,7 @@
     "uptime": "69.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.77%",
+    "uptimeMonth": "30.73%",
     "uptimeYear": "69.10%",
     "time": 226,
     "timeDay": 244,
@@ -213,7 +213,7 @@
     "timeMonth": 236,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-02-15": 593,
+      "2023-02-15": 610,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
@@ -576,19 +576,19 @@
     "url": "http://ua-8200ea14.yalaso.top/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ua-8200ea14.yalaso.top.ico",
     "slug": "node-ua-8200ea14-yalaso-top",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 367,
-    "timeDay": 339,
-    "timeWeek": 379,
+    "timeDay": 345,
+    "timeWeek": 380,
     "timeMonth": 372,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-02-15": 23
+      "2023-02-15": 36
     }
   },
   {
