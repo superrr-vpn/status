@@ -1,7 +1,7 @@
 url: http://sg-67539fc1.yalaso.top/api/v1/ping
-status: degraded
+status: up
 code: 200
-responseTime: 2386
-lastUpdated: 2023-07-31T06:41:12.969Z
+responseTime: 732
+lastUpdated: 2023-07-31T06:51:44.444Z
 startTime: Wed Nov 16 2022 14:24:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
