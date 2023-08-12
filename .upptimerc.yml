@@ -10,6 +10,12 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
+  - name: Turbo Max - Home page old
+    url: https://superrr-vpn.yalaso.top
+    method: GET
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
   - name: Turbo Max - Home page
     url: https://turbo-max.yalaso.top
     method: GET
