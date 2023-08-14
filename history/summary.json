@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 8
+      "2023-08-14": 20
     }
   },
   {
@@ -846,8 +846,8 @@
     "slug": "node-ua-8200ea14-yalaso-top",
     "status": "up",
     "uptime": "81.76%",
-    "uptimeDay": "48.96%",
-    "uptimeWeek": "6.99%",
+    "uptimeDay": "49.85%",
+    "uptimeWeek": "7.12%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "81.76%",
     "time": 354,
@@ -971,7 +971,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 179,
-    "timeDay": 97,
+    "timeDay": 98,
     "timeWeek": 138,
     "timeMonth": 133,
     "timeYear": 179,
@@ -1004,7 +1004,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 164,
+    "timeDay": 154,
     "timeWeek": 156,
     "timeMonth": 155,
     "timeYear": 177,
@@ -1024,7 +1024,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 298,
+    "timeDay": 301,
     "timeWeek": 269,
     "timeMonth": 180,
     "timeYear": 168,
@@ -1042,7 +1042,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 89,
+    "timeDay": 91,
     "timeWeek": 100,
     "timeMonth": 105,
     "timeYear": 105,
