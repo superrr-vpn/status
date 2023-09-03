@@ -1,7 +1,7 @@
 url: http://ru-2d59e4d7.yalaso.top/api/v1/ping
-status: up
+status: degraded
 code: 200
-responseTime: 501
-lastUpdated: 2023-09-03T04:19:55.671Z
+responseTime: 4485
+lastUpdated: 2023-09-03T05:13:32.438Z
 startTime: 2023-07-21T06:33:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
