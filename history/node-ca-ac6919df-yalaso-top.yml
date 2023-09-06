@@ -1,7 +1,7 @@
 url: http://ca-ac6919df.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-06T17:59:00.395Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2023-09-06T18:22:29.729Z
 startTime: 2023-09-06T17:59:00.312Z
 generator: Upptime <https://github.com/upptime/upptime>
