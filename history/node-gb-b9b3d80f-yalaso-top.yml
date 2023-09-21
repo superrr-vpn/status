@@ -1,7 +1,7 @@
 url: http://gb-b9b3d80f.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-21T09:18:38.878Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2023-09-21T09:30:01.644Z
 startTime: 2023-02-28T11:33:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
