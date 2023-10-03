@@ -1,7 +1,7 @@
 url: http://ca-ac6914b7.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-03T07:49:39.751Z
+status: up
+code: 200
+responseTime: 136
+lastUpdated: 2023-10-03T08:23:13.186Z
 startTime: 2023-10-03T07:49:39.427Z
 generator: Upptime <https://github.com/upptime/upptime>
