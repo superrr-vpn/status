@@ -69,14 +69,14 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - au-ac69b344.yalaso.top
-    url: http://au-ac69b344.yalaso.top/api/v1/ping
+  - name: Node - au-2d4fef33.yalaso.top
+    url: http://au-2d4fef33.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - au-b06145ad.yalaso.top
-    url: http://au-b06145ad.yalaso.top/api/v1/ping
+  - name: Node - br-ace90f83.yalaso.top
+    url: http://br-ace90f83.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -87,26 +87,14 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - ca-23b77f40.yalaso.top
-    url: http://ca-23b77f40.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
   - name: Node - ca-6790b1e9.yalaso.top
     url: http://ca-6790b1e9.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - ca-ac6914b7.yalaso.top
-    url: http://ca-ac6914b7.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - de-034855ca.yalaso.top
-    url: http://de-034855ca.yalaso.top/api/v1/ping
+  - name: Node - ca-ac6914d4.yalaso.top
+    url: http://ca-ac6914d4.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -117,8 +105,8 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - de-c02ee9b3.yalaso.top
-    url: http://de-c02ee9b3.yalaso.top/api/v1/ping
+  - name: Node - de-8ba2955d.yalaso.top
+    url: http://de-8ba2955d.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -129,20 +117,8 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - fr-0d261edf.yalaso.top
-    url: http://fr-0d261edf.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - fr-ace82ecd.yalaso.top
-    url: http://fr-ace82ecd.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - gb-03087f26.yalaso.top
-    url: http://gb-03087f26.yalaso.top/api/v1/ping
+  - name: Node - fr-ace9f54f.yalaso.top
+    url: http://fr-ace9f54f.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -159,32 +135,32 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - gb-b03a6504.yalaso.top
-    url: http://gb-b03a6504.yalaso.top/api/v1/ping
+  - name: Node - gb-6d4acd1f.yalaso.top
+    url: http://gb-6d4acd1f.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - ie-34d3f93e.yalaso.top
-    url: http://ie-34d3f93e.yalaso.top/api/v1/ping
+  - name: Node - id-ace8ee6a.yalaso.top
+    url: http://id-ace8ee6a.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - in-344234fc.yalaso.top
-    url: http://in-344234fc.yalaso.top/api/v1/ping
+  - name: Node - in-ac6924dc.yalaso.top
+    url: http://in-ac6924dc.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - in-ac69265e.yalaso.top
-    url: http://in-ac69265e.yalaso.top/api/v1/ping
+  - name: Node - in-ace87196.yalaso.top
+    url: http://in-ace87196.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - it-ace8d8c1.yalaso.top
-    url: http://it-ace8d8c1.yalaso.top/api/v1/ping
+  - name: Node - it-ace8d985.yalaso.top
+    url: http://it-ace8d985.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -195,26 +171,20 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - jp-2bcfaff7.yalaso.top
-    url: http://jp-2bcfaff7.yalaso.top/api/v1/ping
+  - name: Node - jp-ac68603e.yalaso.top
+    url: http://jp-ac68603e.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - jp-ace95a47.yalaso.top
-    url: http://jp-ace95a47.yalaso.top/api/v1/ping
+  - name: Node - jp-ace95c38.yalaso.top
+    url: http://jp-ace95c38.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - kr-0d7c7a1d.yalaso.top
-    url: http://kr-0d7c7a1d.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - nl-bc7417b6.yalaso.top
-    url: http://nl-bc7417b6.yalaso.top/api/v1/ping
+  - name: Node - nl-ace9397e.yalaso.top
+    url: http://nl-ace9397e.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -243,20 +213,8 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - se-0d33a168.yalaso.top
-    url: http://se-0d33a168.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - se-ace8928e.yalaso.top
-    url: http://se-ace8928e.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
-  - name: Node - sg-36a9833d.yalaso.top
-    url: http://sg-36a9833d.yalaso.top/api/v1/ping
+  - name: Node - se-ace88192.yalaso.top
+    url: http://se-ace88192.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -269,6 +227,12 @@ sites:
     maxResponseTime: 2000
   - name: Node - sg-8ba2360b.yalaso.top
     url: http://sg-8ba2360b.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - sg-ac697c64.yalaso.top
+    url: http://sg-ac697c64.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
@@ -297,26 +261,62 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
+  - name: Node - us-480eb83f.yalaso.top
+    url: http://us-480eb83f.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
   - name: Node - us-5c26a98c.yalaso.top
     url: http://us-5c26a98c.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - us-8f2ab690.yalaso.top
-    url: http://us-8f2ab690.yalaso.top/api/v1/ping
+  - name: Node - us-607e6014.yalaso.top
+    url: http://us-607e6014.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - us-acea10fc.yalaso.top
-    url: http://us-acea10fc.yalaso.top/api/v1/ping
+  - name: Node - us-68ed93e0.yalaso.top
+    url: http://us-68ed93e0.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - us-acea2bad.yalaso.top
-    url: http://us-acea2bad.yalaso.top/api/v1/ping
+  - name: Node - us-aabb97b2.yalaso.top
+    url: http://us-aabb97b2.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - us-ace8b92c.yalaso.top
+    url: http://us-ace8b92c.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - us-ace99aa8.yalaso.top
+    url: http://us-ace99aa8.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - us-ace9baad.yalaso.top
+    url: http://us-ace9baad.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - us-ace9edc6.yalaso.top
+    url: http://us-ace9edc6.yalaso.top/api/v1/ping
+    method: POST
+    headers:
+      - "User-Agent: GitHub Action"
+    maxResponseTime: 2000
+  - name: Node - us-acea110f.yalaso.top
+    url: http://us-acea110f.yalaso.top/api/v1/ping
     method: POST
     headers:
       - "User-Agent: GitHub Action"
