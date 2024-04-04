@@ -69,12 +69,6 @@ sites:
     headers:
       - "User-Agent: GitHub Action"
     maxResponseTime: 2000
-  - name: Node - ca-6790b1e9.yalaso.top
-    url: http://ca-6790b1e9.yalaso.top/api/v1/ping
-    method: POST
-    headers:
-      - "User-Agent: GitHub Action"
-    maxResponseTime: 2000
   - name: Node - ca-ac6908f8.yalaso.top
     url: http://ca-ac6908f8.yalaso.top/api/v1/ping
     method: POST
