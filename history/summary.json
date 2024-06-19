@@ -406,18 +406,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jp-2d0b011b.yalaso.top.ico",
     "slug": "node-jp-2d0b011b-yalaso-top",
     "status": "down",
-    "uptime": "1.22%",
-    "uptimeDay": "1.22%",
-    "uptimeWeek": "1.22%",
-    "uptimeMonth": "1.22%",
-    "uptimeYear": "1.22%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-19": 3
+      "2024-06-19": 34
     }
   },
   {
