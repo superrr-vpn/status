@@ -352,19 +352,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gb-05082132.yalaso.top.ico",
     "slug": "node-gb-05082132-yalaso-top",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 271,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2024-06-22": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Node - gb-6d4acbe0.yalaso.top",
@@ -502,8 +500,8 @@
     "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "2.23%",
-    "uptimeWeek": "83.99%",
-    "uptimeMonth": "96.31%",
+    "uptimeWeek": "83.72%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "99.65%",
     "time": 502,
     "timeDay": 514,
@@ -511,7 +509,7 @@
     "timeMonth": 438,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2024-06-22": 292,
+      "2024-06-22": 319,
       "2024-06-21": 1322,
       "2023-09-05": 61
     }
@@ -616,11 +614,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-5cdf1ea7.yalaso.top.ico",
     "slug": "node-us-5cdf1ea7-yalaso-top",
     "status": "up",
-    "uptime": "94.53%",
+    "uptime": "94.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.53%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "94.53%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "94.57%",
     "time": 137,
     "timeDay": 114,
     "timeWeek": 137,
