@@ -170,18 +170,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/au-ac69bc5e.yalaso.top.ico",
     "slug": "node-au-ac69bc5e-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 526,
     "timeDay": 497,
     "timeWeek": 510,
     "timeMonth": 520,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-08-16": 8
+      "2024-08-16": 14
     }
   },
   {
@@ -190,18 +190,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ca-55d06c9f.yalaso.top.ico",
     "slug": "node-ca-55d06c9f-yalaso-top",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.89%",
     "time": 220,
     "timeDay": 196,
     "timeWeek": 208,
     "timeMonth": 219,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-08-16": 8,
+      "2024-08-16": 14,
       "2024-07-31": 68
     }
   },
@@ -289,18 +289,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fr-56684abe.yalaso.top.ico",
     "slug": "node-fr-56684abe-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 303,
     "timeDay": 324,
     "timeWeek": 309,
     "timeMonth": 315,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-08-16": 8
+      "2024-08-16": 14
     }
   },
   {
@@ -309,18 +309,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fr-56684abf.yalaso.top.ico",
     "slug": "node-fr-56684abf-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 326,
     "timeDay": 311,
     "timeWeek": 348,
     "timeMonth": 338,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2024-08-16": 8
+      "2024-08-16": 14
     }
   },
   {
@@ -347,18 +347,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gb-05082132.yalaso.top.ico",
     "slug": "node-gb-05082132-yalaso-top",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 304,
     "timeDay": 322,
     "timeWeek": 347,
     "timeMonth": 318,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-08-16": 8,
+      "2024-08-16": 14,
       "2024-06-25": 15
     }
   },
@@ -368,18 +368,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gb-05b41e7c.yalaso.top.ico",
     "slug": "node-gb-05b41e7c-yalaso-top",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.95%",
     "time": 286,
     "timeDay": 293,
     "timeWeek": 301,
     "timeMonth": 296,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-08-16": 7,
+      "2024-08-16": 14,
       "2024-06-24": 23
     }
   },
@@ -389,18 +389,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gb-05b41e7d.yalaso.top.ico",
     "slug": "node-gb-05b41e7d-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 277,
     "timeDay": 275,
     "timeWeek": 283,
     "timeMonth": 286,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2024-08-16": 8
+      "2024-08-16": 14
     }
   },
   {
@@ -409,18 +409,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jp-05fd29e8.yalaso.top.ico",
     "slug": "node-jp-05fd29e8-yalaso-top",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.95%",
     "time": 362,
     "timeDay": 355,
     "timeWeek": 359,
     "timeMonth": 363,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-08-16": 8,
+      "2024-08-16": 14,
       "2024-07-10": 26
     }
   },
@@ -467,19 +467,19 @@
     "url": "http://nl-ace93e8a.yalaso.top/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/nl-ace93e8a.yalaso.top.ico",
     "slug": "node-nl-ace93e8a-yalaso-top",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 256,
-    "timeDay": 270,
-    "timeWeek": 260,
+    "timeDay": 275,
+    "timeWeek": 261,
     "timeMonth": 264,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 10
     }
   },
   {
@@ -510,9 +510,9 @@
     "slug": "node-sg-8ba2360b-yalaso-top",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 449,
     "timeDay": 442,
@@ -520,7 +520,7 @@
     "timeMonth": 456,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2024-08-16": 7,
+      "2024-08-16": 13,
       "2023-10-03": 34
     }
   },
@@ -530,18 +530,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-25092317.yalaso.top.ico",
     "slug": "node-us-25092317-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 97,
     "timeDay": 105,
     "timeWeek": 99,
     "timeMonth": 103,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 13
     }
   },
   {
@@ -550,18 +550,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-2d96416e.yalaso.top.ico",
     "slug": "node-us-2d96416e-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 139,
     "timeDay": 115,
     "timeWeek": 138,
     "timeMonth": 131,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 13
     }
   },
   {
@@ -570,18 +570,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-2d964170.yalaso.top.ico",
     "slug": "node-us-2d964170-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 130,
     "timeDay": 121,
     "timeWeek": 132,
     "timeMonth": 121,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 13
     }
   },
   {
@@ -589,10 +589,10 @@
     "url": "http://us-480eb83f.yalaso.top/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/us-480eb83f.yalaso.top.ico",
     "slug": "node-us-480eb83f-yalaso-top",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 109,
@@ -601,7 +601,7 @@
     "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 9
     }
   },
   {
@@ -611,9 +611,9 @@
     "slug": "node-us-5cdf1ea7-yalaso-top",
     "status": "up",
     "uptime": "91.09%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "85.95%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "91.09%",
     "time": 120,
     "timeDay": 104,
@@ -621,7 +621,7 @@
     "timeMonth": 123,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-08-16": 7,
+      "2024-08-16": 13,
       "2024-08-13": 403,
       "2024-08-12": 1000,
       "2024-08-08": 84,
@@ -644,18 +644,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-aabb97b2.yalaso.top.ico",
     "slug": "node-us-aabb97b2-yalaso-top",
     "status": "up",
-    "uptime": "47.44%",
+    "uptime": "47.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.44%",
+    "uptimeYear": "47.43%",
     "time": 96,
     "timeDay": 107,
     "timeWeek": 97,
     "timeMonth": 102,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2024-08-16": 570,
+      "2024-08-16": 576,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
@@ -695,18 +695,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-ace99aa8.yalaso.top.ico",
     "slug": "node-us-ace99aa8-yalaso-top",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 115,
     "timeDay": 128,
     "timeWeek": 113,
     "timeMonth": 119,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-08-16": 7
+      "2024-08-16": 13
     }
   },
   {
