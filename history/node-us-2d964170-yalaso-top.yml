@@ -1,7 +1,7 @@
 url: http://us-2d964170.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-23T02:15:35.604Z
+status: up
+code: 200
+responseTime: 374
+lastUpdated: 2024-08-23T02:46:47.237Z
 startTime: 2024-06-23T07:27:34.989Z
 generator: Upptime <https://github.com/upptime/upptime>
