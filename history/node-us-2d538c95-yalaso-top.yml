@@ -1,7 +1,7 @@
 url: http://us-2d538c95.yalaso.top/api/v1/ping
-status: degraded
+status: up
 code: 200
-responseTime: 2783
-lastUpdated: 2024-12-30T21:20:42.330Z
+responseTime: 276
+lastUpdated: 2024-12-30T21:50:56.409Z
 startTime: 2024-12-15T12:51:06.471Z
 generator: Upptime <https://github.com/upptime/upptime>
