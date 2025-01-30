@@ -1,7 +1,7 @@
 url: http://ca-55d06cfe.yalaso.top/api/v1/ping
-status: degraded
+status: up
 code: 200
-responseTime: 3036
-lastUpdated: 2025-01-30T17:59:39.762Z
+responseTime: 275
+lastUpdated: 2025-01-30T18:30:03.304Z
 startTime: 2024-12-15T12:50:48.787Z
 generator: Upptime <https://github.com/upptime/upptime>
