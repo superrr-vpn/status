@@ -1,7 +1,7 @@
 url: http://jp-2d596d24.yalaso.top/api/v1/ping
-status: up
+status: degraded
 code: 200
-responseTime: 559
-lastUpdated: 2025-02-01T07:20:35.515Z
+responseTime: 3416
+lastUpdated: 2025-02-01T08:25:56.317Z
 startTime: 2024-12-15T12:51:01.916Z
 generator: Upptime <https://github.com/upptime/upptime>
