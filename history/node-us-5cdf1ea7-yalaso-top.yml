@@ -1,7 +1,7 @@
 url: http://us-5cdf1ea7.yalaso.top/api/v1/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-12T19:19:19.131Z
+status: up
+code: 200
+responseTime: 127
+lastUpdated: 2025-03-12T19:46:15.778Z
 startTime: 2024-06-19T06:42:29.719Z
 generator: Upptime <https://github.com/upptime/upptime>
