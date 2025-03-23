@@ -1,7 +1,7 @@
 url: http://sg-8ba2360b.yalaso.top/api/v1/ping
-status: up
+status: degraded
 code: 200
-responseTime: 594
-lastUpdated: 2025-03-23T12:44:01.983Z
+responseTime: 2808
+lastUpdated: 2025-03-23T12:52:07.051Z
 startTime: 2023-10-03T07:50:08.744Z
 generator: Upptime <https://github.com/upptime/upptime>
