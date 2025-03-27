@@ -1,7 +1,7 @@
 url: http://gb-0238b399.yalaso.top/api/v1/ping
-status: degraded
+status: up
 code: 200
-responseTime: 4879
-lastUpdated: 2025-03-27T07:31:39.234Z
+responseTime: 204
+lastUpdated: 2025-03-27T07:46:10.544Z
 startTime: 2024-12-15T12:50:56.764Z
 generator: Upptime <https://github.com/upptime/upptime>
